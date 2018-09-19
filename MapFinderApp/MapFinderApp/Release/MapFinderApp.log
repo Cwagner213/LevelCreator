@@ -1,0 +1,28 @@
+﻿  APath.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  Grid.cpp
+  MapCreator.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(447): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(524): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(527): warning C4018: '<=': signed/unsigned mismatch
+  MapFinderApp.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapfinderapp.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  Room.cpp
+  Vector2.cpp
+  Generating code
+  4 of 572 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MapFinderApp.vcxproj -> C:\Users\cjwag\source\repos\MapFinderApp\Release\MapFinderApp.exe

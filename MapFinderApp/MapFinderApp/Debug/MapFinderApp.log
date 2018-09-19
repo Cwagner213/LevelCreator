@@ -1,0 +1,22 @@
+﻿  APath.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\apath.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Grid.cpp
+  MapCreator.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(444): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(447): warning C4018: '<=': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(524): warning C4018: '<': signed/unsigned mismatch
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapcreator.cpp(527): warning C4018: '<=': signed/unsigned mismatch
+  MapFinderApp.cpp
+c:\users\cjwag\source\repos\mapfinderapp\mapfinderapp\mapfinderapp.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  Generating Code...
+  MapFinderApp.vcxproj -> C:\Users\cjwag\source\repos\MapFinderApp\Debug\MapFinderApp.exe
